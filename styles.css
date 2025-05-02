@@ -1,6 +1,9 @@
 body {
     font-family: "Vollkorn", serif;
 }
+a{
+    text-decoration-color: rgb(56, 3, 97);
+}
 .ctg {
     display: flex;
 }
@@ -8,4 +11,39 @@ body {
 .bold {
     font-weight: 600;
     color: #723d54df;
+}
+.bold:hover{
+    color: #613246e6;
+}
+
+.categories {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between
+}
+
+.category {
+    width: 550px;
+}
+.up {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    width: 40px;
+    height: 40px;
+    background-color: #723d546a; /* синя кнопка */
+    color: white;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 24px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+}
+
+.up:hover {
+    background-color: #613246e6;
 }
