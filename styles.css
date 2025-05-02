@@ -1,0 +1,11 @@
+body {
+    font-family: "Vollkorn", serif;
+}
+.ctg {
+    display: flex;
+}
+
+.bold {
+    font-weight: 600;
+    color: #723d54df;
+}
