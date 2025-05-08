@@ -1,0 +1,157 @@
+[
+    {
+        "region_code": 1,
+        "name": "Автономна Республіка Крим",
+        "number of courts": 29
+    },
+    {
+        "region_code": 2,
+        "name": "Вінницька область",
+        "number of courts": 38
+    },
+    {
+        "region_code": 3,
+        "name": "Волинська область",
+        "number of courts": 21
+    },
+    {
+        "region_code": 4,
+        "name": "Дніпропетровська область",
+        "number of courts": 55
+    },
+    {
+        "region_code": 5,
+        "name": "Донецька область",
+        "number of courts": 64
+    },
+    {
+        "region_code": 6,
+        "name": "Житомирська область",
+        "number of courts": 31
+    },
+    {
+        "region_code": 7,
+        "name": "Закарпатська область",
+        "number of courts": 17
+    },
+    {
+        "region_code": 8,
+        "name": "Запорізька область",
+        "number of courts": 33
+    },
+    {
+        "region_code": 9,
+        "name": "Івано-Франківська область",
+        "number of courts": 21
+    },
+    {
+        "region_code": 10,
+        "name": "Київська область",
+        "number of courts": 32
+    },
+    {
+        "region_code": 11,
+        "name": "Кіровоградська область",
+        "number of courts": 27
+    },
+    {
+        "region_code": 12,
+        "name": "Луганська область",
+        "number of courts": 37
+    },
+    {
+        "region_code": 13,
+        "name": "Львівська область",
+        "number of courts": 37
+    },
+    {
+        "region_code": 14,
+        "name": "Миколаївська область",
+        "number of courts": 28
+    },
+    {
+        "region_code": 15,
+        "name": "Одеська область",
+        "number of courts": 41
+    },
+    {
+        "region_code": 16,
+        "name": "Полтавська область",
+        "number of courts": 35
+    },
+    {
+        "region_code": 17,
+        "name": "Рівненська область",
+        "number of courts": 24
+    },
+    {
+        "region_code": 18,
+        "name": "Сумська область",
+        "number of courts": 24
+    },
+    {
+        "region_code": 19,
+        "name": "Тернопільська область",
+        "number of courts": 21
+    },
+    {
+        "region_code": 20,
+        "name": "Харківська область",
+        "number of courts": 45
+    },
+    {
+        "region_code": 21,
+        "name": "Херсонська область",
+        "number of courts": 27
+    },
+    {
+        "region_code": 22,
+        "name": "Хмельницька область",
+        "number of courts": 25
+    },
+    {
+        "region_code": 23,
+        "name": "Черкаська область",
+        "number of courts": 27
+    },
+    {
+        "region_code": 24,
+        "name": "Чернівецька область",
+        "number of courts": 19
+    },
+    {
+        "region_code": 25,
+        "name": "Чернігівська область",
+        "number of courts": 28
+    },
+    {
+        "region_code": 26,
+        "name": "м. Київ",
+        "number of courts": 30
+    },
+    {
+        "region_code": 27,
+        "name": "м. Севастополь",
+        "number of courts": 12
+    },
+    {
+        "region_code": 31,
+        "name": "ВС Центральний регіон",
+        "number of courts": 6
+    },
+    {
+        "region_code": 32,
+        "name": "ВС Західний регіон",
+        "number of courts": 3
+    },
+    {
+        "region_code": 33,
+        "name": "ВС Південний регіон",
+        "number of courts": 3
+    },
+    {
+        "region_code": 34,
+        "name": "ВС ВМС України",
+        "number of courts": 3
+    }
+]

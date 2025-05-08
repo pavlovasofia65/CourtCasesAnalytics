@@ -1,0 +1,230 @@
+[
+    {
+        "court_code": 202,
+        "name": "Бершадський районний суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 204,
+        "name": "Гайсинський районний суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 207,
+        "name": "Іллінецький районний суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 209,
+        "name": "Козятинський міськрайонний суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 210,
+        "name": "Крижопільський районний суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 215,
+        "name": "Могилів-Подільський міськрайонний суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 219,
+        "name": "Піщанський районний суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 221,
+        "name": "Староміський районний суд м. Вінниці",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 222,
+        "name": "Теплицький районний суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 224,
+        "name": "Томашпільський районний суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 226,
+        "name": "Тульчинський районний суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 229,
+        "name": "Чечельницький районний суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 230,
+        "name": "Шаргородський районний суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 290,
+        "name": "Апеляційний суд Вінницької області",
+        "instance_code": 2,
+        "region_code": 2
+    },
+    {
+        "court_code": 201,
+        "name": "Барський районний суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 203,
+        "name": "Вінницький районний суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 206,
+        "name": "Замостянський районний суд м. Вінниці",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 211,
+        "name": "Ладижинський міський суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 213,
+        "name": "Липовецький районний суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 216,
+        "name": "Мурованокуриловецький районний суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 218,
+        "name": "Оратівський районний суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 5003,
+        "name": "Господарський суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 208,
+        "name": "Калинівський районний суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 220,
+        "name": "Погребищенський районний суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 205,
+        "name": "Жмеринський міськрайонний суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 212,
+        "name": "Ленінський районний суд м. Вінниці",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 217,
+        "name": "Немирівський районний суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 223,
+        "name": "Тиврівський районний суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 227,
+        "name": "Хмільницький міськрайонний суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 231,
+        "name": "Ямпільський районний суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 9108,
+        "name": "Вінницький апеляційний адміністративний суд",
+        "instance_code": 2,
+        "region_code": 2
+    },
+    {
+        "court_code": 214,
+        "name": "Літинський районний суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 228,
+        "name": "Чернівецький районний суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 232,
+        "name": "Вінницький міський суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 4856,
+        "name": "Сьомий апеляційний адміністративний суд",
+        "instance_code": 2,
+        "region_code": 2
+    },
+    {
+        "court_code": 225,
+        "name": "Тростянецький районний суд Вінницької області",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 270,
+        "name": "Вінницький окружний адміністративний суд",
+        "instance_code": 3,
+        "region_code": 2
+    },
+    {
+        "court_code": 4801,
+        "name": "Вінницький апеляційний суд",
+        "instance_code": 2,
+        "region_code": 2
+    }
+]

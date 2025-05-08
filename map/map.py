@@ -17,7 +17,7 @@ folium.Choropleth(
     fill_color="PuBu",
     fill_opacity=0.7,
     line_opacity=0.2,
-    legend_name="Кількість судів у районі"
+    legend_name="Кількість судів в областях"
 ).add_to(m)
 
 for _, row in gdf.iterrows():
